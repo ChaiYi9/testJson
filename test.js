@@ -1,0 +1,3 @@
+function testCallAlert(){
+  alert("ji")
+}
