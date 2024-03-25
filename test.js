@@ -1,3 +1,3 @@
 function testCallAlert(){
-  alert("ji")
+  console.log("aa");
 }
