@@ -1,3 +1,3 @@
-const testCallAlert = () => {
+const callAlert = () => {
   console.log("aa");
 }
