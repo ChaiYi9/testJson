@@ -1,3 +1,3 @@
-function testCallAlert(){
+(function testCallAlert(){
   console.log("aa");
-}
+})()
