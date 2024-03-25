@@ -1,3 +1,3 @@
-function testCallAlert(){
+const testCallAlert = () => {
   console.log("aa");
 }
